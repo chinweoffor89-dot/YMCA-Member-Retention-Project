@@ -152,7 +152,7 @@ Key client feedback directly shaped the project:
 Due to privacy and contractual constraints:
 - ❌ No raw data included
 - ❌ No notebooks or model files included
-- ✅ Visual outputs and documented insights only
+- ✅ Visual outputs and documented insights only [https://github.com/chinweoffor89-dot/YMCA-Member-Retention-Project/releases/tag/YMCA_ML]
 
 This repository is intended for **portfolio and knowledge demonstration purposes**.
 
